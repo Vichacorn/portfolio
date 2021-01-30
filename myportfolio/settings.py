@@ -25,7 +25,7 @@ SECRET_KEY = 'rdiapz_be-tnxvdji(ks$+3u2q@rwkh3tdo!nwypmuks*o*w72'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [vichacorn.pythonanywhere.com]
+ALLOWED_HOSTS = ['vichacorn.pythonanywhere.com']
 
 
 # Application definition
